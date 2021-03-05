@@ -1,6 +1,6 @@
 # Stored Embeddings for Efficient Reinforcement Learning (SEER)
 
-Official codebase for Improving Computational Efficiency in Visual Reinforcement Learning via Stored Embeddings. The Rainbow codebase was originally forked from Kaixhin's [Rainbow](https://github.com/Kaixhin/Rainbow) and the CURL codebase was originally forked from [CURL](https://github.com/MishaLaskin/curl).
+Official codebase for [Improving Computational Efficiency in Visual Reinforcement Learning via Stored Embeddings](https://arxiv.org/abs/2103.02886). The Rainbow codebase was originally forked from Kaixhin's [Rainbow](https://github.com/Kaixhin/Rainbow) and the CURL codebase was originally forked from [CURL](https://github.com/MishaLaskin/curl).
 
 ## BibTex
 
